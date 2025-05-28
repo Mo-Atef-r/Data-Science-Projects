@@ -1,1 +1,0 @@
-conda create -n retail_rfm python=3.9 numpy pandas streamlit matplotlib seaborn scikit-learn jupyter -y
