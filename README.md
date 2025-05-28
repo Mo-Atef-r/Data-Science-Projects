@@ -6,7 +6,6 @@ This project segments customers using:
 - **K-Means clustering** 
 - **Interactive visualizations**
 
-Identified 4 distinct customer segments to drive targeted marketing strategies.
 
 ## Tech Stack
 - **Python** (Pandas, NumPy)
